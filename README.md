@@ -9,7 +9,8 @@ Mills: NN <br />
 For the application project, our code is delivered via python notebooks:
 * Neural Network: NN.ipynb
 * Boosting: boosting.ipynb
-* Decision Tree and Random Forest: DecionTree_&_RandomForest.ipynb
+* Random Forest: RandomForest6316.ipynb
+* Decision Tree: DecisionTree6316.ipynb
 * K Means: K_means.ipynb
 * Logistic Regression: logistic.ipynb
 * SVM: SVM.ipynb
