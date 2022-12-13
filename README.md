@@ -9,7 +9,8 @@ Mills: NN <br />
 For the application project, our code is delivered via python notebooks:
 * Neural Network: NN.ipynb
 * Boosting: boosting.ipynb
-* Decision Tree and Random Forest: DecionTree_&_RandomForest.ipynb
+* Random Forest: RandomForest6316.ipynb
+* Decision Tree: DecisionTree6316.ipynb
 * K Means: K_means.ipynb
 * Logistic Regression: logistic.ipynb
 * SVM: SVM.ipynb
@@ -17,7 +18,10 @@ For the application project, our code is delivered via python notebooks:
 ### Neural Network
 Our team tested and validated the Neural Network python notebook via integrated capabilities available from the PyCharm IDE.  Execution of the code is described in the Project Report.  To simulate results, execute each code block in sequential order.
 ### Boosting
-### Decision Tree and Random Forest
+### Random Forest 
+We implimented the Random Forest Model using sklearn.ensemble.RandomForestClassifier. To simulate results, execute each code block in sequential order.
+### Decision Tree
+We implimented the Random Forest Model using ssklearn.tree.DecisionTreeClassifier. To simulate results, execute each code block in sequential order.
 ### K Means
 ### Logistic Regression
 ### SVM
