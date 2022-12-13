@@ -18,7 +18,8 @@ For the application project, our code is delivered via python notebooks:
 ### Neural Network
 Our team tested and validated the Neural Network python notebook via integrated capabilities available from the PyCharm IDE.  Execution of the code is described in the Project Report.  To simulate results, execute each code block in sequential order.
 ### Boosting
-### Decision Tree and Random Forest
+### Random Forest 
+### Decision Tree
 ### K Means
 ### Logistic Regression
 ### SVM
