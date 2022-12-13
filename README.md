@@ -19,7 +19,9 @@ For the application project, our code is delivered via python notebooks:
 Our team tested and validated the Neural Network python notebook via integrated capabilities available from the PyCharm IDE.  Execution of the code is described in the Project Report.  To simulate results, execute each code block in sequential order.
 ### Boosting
 ### Random Forest 
+We implimented the Random Forest Model using sklearn.ensemble.RandomForestClassifier. To simulate results, execute each code block in sequential order.
 ### Decision Tree
+We implimented the Random Forest Model using ssklearn.tree.DecisionTreeClassifier. To simulate results, execute each code block in sequential order.
 ### K Means
 ### Logistic Regression
 ### SVM
