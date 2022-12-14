@@ -23,5 +23,8 @@ We implimented the Random Forest Model using sklearn.ensemble.RandomForestClassi
 ### Decision Tree
 We implimented the Random Forest Model using ssklearn.tree.DecisionTreeClassifier. To simulate results, execute each code block in sequential order.
 ### K Means
+To simulate results, execute each code block in sequential order.
 ### Logistic Regression
+To simulate results, execute each code block in sequential order.
 ### SVM
+To simulate results, execute each code block in sequential order.
